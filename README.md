@@ -2,7 +2,7 @@
 
 This is a job test project based on HTML, CSS, and JavaScript. 
 
-## features 
+## Apply: 
 
 - responsiveness
 
