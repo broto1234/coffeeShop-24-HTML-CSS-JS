@@ -1,8 +1,10 @@
 This is a fully responsive project with **HTML**, **CSS**, and **JavaScript** hosted on **Vercel** (https://coffee-shop-24-html-css-js.vercel.app/).
 
+
 ## Skills:
 
 HTML, CSS, JavaScript, VS Code, GitHub, Vercel.
+
 
 ## Apply:
 
